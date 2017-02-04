@@ -1,5 +1,7 @@
 # Digitopia
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/digitopia-example.svg)](https://greenkeeper.io/)
+
 This is an example Strongloop app Scaffolding.
 
 The details of this repository are discussed on [digitopia](http://blog.digitopia.com/)
